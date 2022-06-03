@@ -1,6 +1,6 @@
 # Proyecto_EDnoL
 
-UEA: Estruturas de Datos No Lineales.
+UEA: Estructuras de Datos No Lineales.
 
 Resumen.
 
