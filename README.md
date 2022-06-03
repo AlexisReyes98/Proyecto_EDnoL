@@ -1,5 +1,7 @@
 # Proyecto_EDnoL
 
+UEA: Estruturas de Datos No Lineales.
+
 Resumen.
 
 Problema: Tener un control de seguridad en el acceso al sistema de una Empresa X, el cual debe ser creado de manera que cada trabajador
